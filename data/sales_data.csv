@@ -1,0 +1,13 @@
+OrderID,OrderDate,Customer,Region,State,Product,Category,Quantity,UnitPrice,UnitCost,Discount,Sales,Cost,Profit,PaymentMode
+ORD0001,2024-01-02,Customer 001,West,Nashik,Laptop,Electronics,2,62000,48000,0.05,117800,96000,21800,UPI
+ORD0002,2024-01-05,Customer 002,South,Bengaluru,Smartphone,Electronics,3,28000,21000,0.00,84000,63000,21000,Credit Card
+ORD0003,2024-02-11,Customer 003,West,Mumbai,Office Chair,Furniture,2,8500,5600,0.10,15300,11200,4100,Debit Card
+ORD0004,2024-03-14,Customer 004,North,Delhi,Printer,Electronics,1,14500,10800,0.00,14500,10800,3700,Cash
+ORD0005,2024-04-09,Customer 005,East,Kolkata,Backpack,Accessories,4,1800,950,0.05,6840,3800,3040,UPI
+ORD0006,2024-05-19,Customer 006,West,Pune,Desk,Furniture,1,12000,8200,0.00,12000,8200,3800,Net Banking
+ORD0007,2024-06-22,Customer 007,South,Chennai,Headphones,Electronics,5,2500,1300,0.02,12250,6500,5750,Credit Card
+ORD0008,2024-07-08,Customer 008,North,Jaipur,Notebook,Stationery,8,120,55,0.05,912,440,472,Cash
+ORD0009,2024-08-17,Customer 009,East,Patna,Pen Pack,Stationery,6,90,35,0.00,540,210,330,UPI
+ORD0010,2024-09-23,Customer 010,West,Nashik,Water Bottle,Accessories,3,650,280,0.10,1755,840,915,Debit Card
+ORD0011,2025-01-04,Customer 011,South,Hyderabad,Laptop,Electronics,1,62000,48000,0.00,62000,48000,14000,UPI
+ORD0012,2025-02-16,Customer 012,North,Chandigarh,Smartphone,Electronics,2,28000,21000,0.05,53200,42000,11200,Credit Card
